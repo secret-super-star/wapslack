@@ -578,12 +578,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		})
 
 		$('#register_form').submit(function (e){
-			if (grecaptcha.getResponse() == ""){
-								e.preventDefault();
-                alert("Please check the recaptcha!");
-            } else {
-
-            }
+			// if (grecaptcha.getResponse() == ""){
+			// 					e.preventDefault();
+      //           alert("Please check the recaptcha!");
+      //       } else {
+			//
+      //       }
 		})
 
 		$('.forgot_form').submit(function (e){

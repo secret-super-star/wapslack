@@ -22,7 +22,10 @@ $phone_number = $_POST['phone_number'];
 
 $dbh = connectToDatabase();
 
+
+
 $statement = $dbh->prepare("INSERT INTO user (user_name, biz_name, short_name, email, site_email, country, phone, spark_email, password) VALUES ('$surname', '$biz_name', '', '$eamil_address', '$site_address', '$country', '$phone_number', '', '')");
+
 
 $statement->execute();
 $inserted_id = $dbh->lastInsertId();
