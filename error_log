@@ -1,0 +1,52 @@
+[08-Jun-2019 07:21:13 UTC] PHP Notice:  Undefined variable: headers in /home/hison/public_html/hison/Spark/register.php on line 27
+[08-Jun-2019 08:38:48 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/hison/public_html/hison/Spark/register.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/hison/public_html/hison/Spark/register.php on line 41
+[08-Jun-2019 09:13:39 UTC] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hison/public_html/hison/Spark/register.php on line 4
+[08-Jun-2019 09:13:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/hison/public_html/hison/Spark/register.php on line 4
+[08-Jun-2019 09:13:39 UTC] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hison/public_html/hison/Spark/register.php on line 4
+[08-Jun-2019 09:13:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/hison/public_html/hison/Spark/register.php on line 4
+[08-Jun-2019 09:13:40 UTC] PHP Warning:  require_once(/vendor/autoload.php): failed to open stream: No such file or directory in /home/hison/public_html/hison/Spark/register.php on line 4
+[08-Jun-2019 09:13:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/hison/public_html/hison/Spark/register.php on line 4
+[08-Jun-2019 09:13:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/hison/public_html/hison/Spark/register.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/hison/public_html/hison/Spark/register.php on line 41
+[08-Jun-2019 09:16:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/hison/public_html/hison/Spark/register.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/hison/public_html/hison/Spark/register.php on line 41
+[08-Jun-2019 09:16:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/hison/public_html/hison/Spark/register.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/hison/public_html/hison/Spark/register.php on line 41
+[08-Jun-2019 09:17:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/hison/public_html/hison/Spark/register.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hison/public_html/hison/Spark/register.php on line 5
+[08-Jun-2019 09:17:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/hison/public_html/hison/Spark/register.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hison/public_html/hison/Spark/register.php on line 5
+[08-Jun-2019 09:17:46 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/hison/public_html/hison/Spark/register.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hison/public_html/hison/Spark/register.php on line 5
+[08-Jun-2019 09:20:52 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/hison/public_html/hison/Spark/register.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hison/public_html/hison/Spark/register.php on line 5
+[08-Jun-2019 09:24:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/hison/public_html/hison/Spark/register.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/hison/public_html/hison/Spark/register.php on line 5
+[08-Jun-2019 09:57:08 UTC] PHP Notice:  Undefined index: surname in /home/hison/public_html/hison/Spark/register.php on line 14
+[08-Jun-2019 09:57:08 UTC] PHP Notice:  Undefined index: biz_name in /home/hison/public_html/hison/Spark/register.php on line 15
+[08-Jun-2019 09:57:08 UTC] PHP Notice:  Undefined index: short_name in /home/hison/public_html/hison/Spark/register.php on line 16
+[08-Jun-2019 09:57:08 UTC] PHP Notice:  Undefined index: eamil_address in /home/hison/public_html/hison/Spark/register.php on line 17
+[08-Jun-2019 09:57:08 UTC] PHP Notice:  Undefined index: site_address in /home/hison/public_html/hison/Spark/register.php on line 18
+[08-Jun-2019 09:57:08 UTC] PHP Notice:  Undefined index: country in /home/hison/public_html/hison/Spark/register.php on line 19
+[08-Jun-2019 09:57:08 UTC] PHP Notice:  Undefined index: phone_number in /home/hison/public_html/hison/Spark/register.php on line 20
+[08-Jun-2019 09:57:08 UTC] PHP Notice:  Undefined index: workspace in /home/hison/public_html/hison/Spark/register.php on line 21
+[08-Jun-2019 10:00:05 UTC] PHP Notice:  Undefined variable: name in /home/hison/public_html/hison/Spark/phpliteadmin.php on line 1142
