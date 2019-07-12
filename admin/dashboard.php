@@ -48,7 +48,7 @@ $row = $statement->fetch(PDO::FETCH_ASSOC);
   </head>
   <body class="app sidebar-mini rtl">
     <!-- Navbar-->
-    <header class="app-header"><a class="app-header__logo" href="index.html">Wapslack Admin</a>
+    <header class="app-header"><a class="app-header__logo" href="dashboard.php">Wapslack Admin</a>
       <!-- Sidebar toggle button--><a class="app-sidebar__toggle" href="#" data-toggle="sidebar" aria-label="Hide Sidebar"></a>
       <!-- Navbar Right Menu-->
       <ul class="app-nav">
