@@ -8,7 +8,7 @@
 function connectToDatabase()
 {
 	// connect to our SQLITE database
-	$dbh = new PDO("sqlite:../ellomed.db");
+	$dbh = new PDO("sqlite:ellomed.db");
 
 	// if you had a MYSQL server you could use this instead:
 	// $dbh = new PDO("mysql:host=localhost;dbname=myDatabase", "username", "password");

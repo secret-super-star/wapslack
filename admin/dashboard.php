@@ -9,7 +9,7 @@ if(!isset($_SESSION['admin'])){
 
 $user_id = $_SESSION['admin'];
 
-include('../functions.php');
+include('functions.php');
 
 $dbh = connectToDatabase();
 

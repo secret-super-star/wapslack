@@ -30,7 +30,7 @@ $statement = $dbh->prepare("INSERT INTO user (user_name, biz_name, short_name, e
 $statement->execute();
 $inserted_id = $dbh->lastInsertId();
 
-header('Location: index.php');
+header('Location: thankyoupage.php');
 //
 // // $to = $eamil_address;
 //

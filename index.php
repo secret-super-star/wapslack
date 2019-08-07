@@ -142,9 +142,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 						<div class="home-content">
 							<h1 class="white-text">We connect your <font color="yellow">S</font><font color="red">l</font><font color="green">a</font><font color="blue">c</font><font color="yellow">k</font> to <font color="green">Whatsapp</font>
 							</h1>
-							<p class="white-text">Let your customers send you a WhatsApp message and let your team answer
-								them from
-								Slack
+							<p class="white-text" style="font-size : 18px;">Let your customers send you a WhatsApp message and let your team answer	them from Slack.
+                <p><button class="btn btn-success register_button">Register Here</button></p>
+
 							</p>
 							<!--<button class="white-btn">Get Started!</button>
 							<button class="main-btn">Learn more</button> -->
@@ -243,7 +243,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 						</div>
 						<div class="col-md-6">
-							<div class="g-recaptcha" data-sitekey="6LfhWqgUAAAAAIBCl-VKwceFxxLK5sAexZKCOXZF"></div>
+							<div class="g-recaptcha" data-sitekey="6LdLv6gUAAAAAOR-qFWddfLT8ZxQBXak_rdb42G7"></div>
 
 						</div>
 						<div class="col-md-4">
@@ -585,6 +585,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			//
       //       }
 		})
+
+    $('.register_button').click(function (){
+      window.location.href = "#register"
+    })
 
 		$('.forgot_form').submit(function (e){
 			e.preventDefault();
